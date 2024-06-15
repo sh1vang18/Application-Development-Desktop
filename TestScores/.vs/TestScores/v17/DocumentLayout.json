@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\TestScores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B285B240-B23D-4008-B98F-18EEBEE5B4B1}|TestScores.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\testscores\\testscoresclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B285B240-B23D-4008-B98F-18EEBEE5B4B1}|TestScores.csproj|solutionrelative:testscoresclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285B240-B23D-4008-B98F-18EEBEE5B4B1}|TestScores.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\testscores\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B285B240-B23D-4008-B98F-18EEBEE5B4B1}|TestScores.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285B240-B23D-4008-B98F-18EEBEE5B4B1}|TestScores.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\testscores\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B285B240-B23D-4008-B98F-18EEBEE5B4B1}|TestScores.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285B240-B23D-4008-B98F-18EEBEE5B4B1}|TestScores.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\testscores\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B285B240-B23D-4008-B98F-18EEBEE5B4B1}|TestScores.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\TestScores\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\TestScores\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:32:37.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\TestScores\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\TestScores\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:32:36.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestScoresClass.cs",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\TestScores\\TestScoresClass.cs",
+              "RelativeDocumentMoniker": "TestScoresClass.cs",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\TestScores\\TestScoresClass.cs",
+              "RelativeToolTip": "TestScoresClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:42:48.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\TestScores\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\TestScores\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T21:37:41.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
