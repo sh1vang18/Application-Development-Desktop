@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|solutionrelative:response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|solutionrelative:apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|solutionrelative:adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\saleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|solutionrelative:saleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\assignment-1\\farmersmarketapp\\saleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|solutionrelative:saleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|solutionrelative:adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2E53919-1A00-4E0B-A8E1-647B442484A0}|FarmersMarketApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\AdminWindow.xaml",
+              "RelativeToolTip": "AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T18:18:44.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T21:13:08.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\SalesWindow.xaml",
+              "RelativeDocumentMoniker": "SalesWindow.xaml",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\SalesWindow.xaml",
+              "RelativeToolTip": "SalesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T18:41:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\ApiClient.cs",
+              "RelativeDocumentMoniker": "ApiClient.cs",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\ApiClient.cs",
+              "RelativeToolTip": "ApiClient.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAqwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:56:10.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\Response.cs",
+              "RelativeDocumentMoniker": "Response.cs",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\Response.cs",
+              "RelativeToolTip": "Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:38:03.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\SalesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SalesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\SalesWindow.xaml.cs",
+              "RelativeToolTip": "SalesWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:42:46.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "AdminWindow.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwLgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:24:05.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:06:09.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Assignment-1\\FarmersMarketApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T22:06:09.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
