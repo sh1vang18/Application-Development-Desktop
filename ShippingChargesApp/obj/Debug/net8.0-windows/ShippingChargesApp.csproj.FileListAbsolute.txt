@@ -13,6 +13,7 @@ C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\ShippingChargesApp\obj\
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\ShippingChargesApp\obj\Debug\net8.0-windows\ShippingChargesApp.AssemblyInfoInputs.cache
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\ShippingChargesApp\obj\Debug\net8.0-windows\ShippingChargesApp.AssemblyInfo.cs
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\ShippingChargesApp\obj\Debug\net8.0-windows\ShippingChargesApp.csproj.CoreCompileInputs.cache
+C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\ShippingChargesApp\obj\Debug\net8.0-windows\ShippingChargesApp.sourcelink.json
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\ShippingChargesApp\obj\Debug\net8.0-windows\ShippingChargesApp.dll
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\ShippingChargesApp\obj\Debug\net8.0-windows\refint\ShippingChargesApp.dll
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\ShippingChargesApp\obj\Debug\net8.0-windows\ShippingChargesApp.pdb

@@ -13,6 +13,7 @@ C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\BankApp\obj\Debug\net8.
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\BankApp\obj\Debug\net8.0-windows\BankApp.AssemblyInfoInputs.cache
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\BankApp\obj\Debug\net8.0-windows\BankApp.AssemblyInfo.cs
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\BankApp\obj\Debug\net8.0-windows\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\BankApp\obj\Debug\net8.0-windows\BankApp.sourcelink.json
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\BankApp\obj\Debug\net8.0-windows\BankApp.dll
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\BankApp\obj\Debug\net8.0-windows\refint\BankApp.dll
 C:\Users\sh1va\OneDrive\Desktop\Desktop Development\Lab2\BankApp\obj\Debug\net8.0-windows\BankApp.pdb

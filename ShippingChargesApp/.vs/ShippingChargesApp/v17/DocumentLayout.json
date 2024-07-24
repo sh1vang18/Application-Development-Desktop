@@ -3,20 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\ShippingChargesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\shippingchargesapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\shippingchargesapp\\shippingcharges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|solutionrelative:shippingcharges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\shippingchargesapp\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{ED9DBA97-FA4E-4CA3-ABC7-FD0B473AFC2A}|..\\ShippingChargesAppTests\\ShippingChargesAppTests.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\shippingchargesapptests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\shippingchargesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\shippingchargesapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|c:\\users\\sh1va\\onedrive\\desktop\\desktop development\\lab2\\shippingchargesapp\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EF15D13-A3F9-4A9A-89C7-F9C7788CC7AB}|ShippingChargesApp.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,48 +29,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\ShippingChargesAppTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\ShippingChargesAppTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\ShippingChargesAppTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\ShippingChargesAppTests\\UnitTest1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:46:49.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ShippingCharges.cs",
               "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\ShippingChargesApp\\ShippingCharges.cs",
               "RelativeDocumentMoniker": "ShippingCharges.cs",
               "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\ShippingChargesApp\\ShippingCharges.cs",
               "RelativeToolTip": "ShippingCharges.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAlwC0AAAA3AAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T21:04:04.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\ShippingChargesApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\ShippingChargesApp\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-14T21:01:58.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T21:01:58.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\ShippingChargesApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\ShippingChargesApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAawCAAAAAwAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T21:01:55.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\sh1va\\OneDrive\\Desktop\\Desktop Development\\Lab2\\ShippingChargesApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -75,8 +94,7 @@
               "RelativeToolTip": "MainWindow.xaml",
               "ViewState": "AQIAAAUAAAAAAAAAAAApwBMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-14T21:02:41.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T21:02:41.286Z"
             }
           ]
         }
